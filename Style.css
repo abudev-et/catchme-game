@@ -1,0 +1,55 @@
+.grid{
+  width: 404px;
+  height: 404px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square{
+  width: 120px;
+  height: 150px;
+  border: solid black 1px;
+}
+
+.start-button{
+  background-color: #beee;
+  margin-bottom: 20px;
+  border: solid #bee9 10px;
+  border-radius: 10px;
+}
+
+.mole{
+  background-image: url('catchme.jpg');
+  max-width: 100%;
+  height: auto;
+  /* background-size: cover; */
+}
+
+.get{
+  border: solid #f11;
+}
+
+.high{
+  background-color: #fa4343;
+  margin-bottom: 20px;
+  border: solid #fa4343 10px;
+  border-radius: 10px;
+}
+
+.medium{
+  background-color: #ffff4b;
+  margin-bottom: 20px;
+  border: solid #ffff4b 10px;
+  border-radius: 10px;
+}
+
+.low{
+  background-color: #43cf43;
+  margin-bottom: 20px;
+  border: solid #43cf43 10px;
+  border-radius: 10px;
+}
+
+.active{
+  color: #dbd82e;
+}
