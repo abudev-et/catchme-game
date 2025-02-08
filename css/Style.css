@@ -19,7 +19,7 @@
 }
 
 .mole{
-  background-image: url('catchme.jpg');
+  background-image: url('../image/catchme.jpg');
   max-width: 100%;
   height: auto;
   /* background-size: cover; */
