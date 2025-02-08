@@ -1,7 +1,5 @@
 # CatchMe Game
 
-![Game Preview](link-to-screenshot.png) <!-- Replace with an actual image link -->
-
 ## About the Game
 
 **CatchMe Game** is a simple and fun JavaScript game designed to improve integration between JavaScript and CSS. The goal of the game is to catch the moving kid image within a **3×3 grid** and score as many points as possible within **60 seconds**.
@@ -38,7 +36,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/catchme-game.git
+   git clone https://github.com/abudev-et/catchme-game.git
    ```
 2. Open `index.html` in your browser and start playing!
 
